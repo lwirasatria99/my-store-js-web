@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X100",
+      "brand": "TechBrand",
+      "category": "Electronics",
+      "price": 799.99,
+      "description": "A high-end smartphone with a sleek design and powerful features.",
+      "imageFilename": "s23.webp",
+      "createdAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Wireless Headphones Pro",
+      "brand": "SoundMax",
+      "category": "Audio",
+      "price": 199.99,
+      "description": "Experience unparalleled sound quality with these wireless headphones.",
+      "imageFilename": "s23.webp",
+      "createdAt": "2024-02-20T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop GL50",
+      "brand": "GamerTech",
+      "category": "Computers",
+      "price": 1499.99,
+      "description": "A powerful gaming laptop with high-end graphics and fast processing.",
+      "imageFilename": "s23.webp",
+      "createdAt": "2024-03-05T09:45:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch S3",
+      "brand": "WristTech",
+      "category": "Wearables",
+      "price": 299.99,
+      "description": "Stay connected and track your fitness with this advanced smartwatch.",
+      "imageFilename": "s23.webp",
+      "createdAt": "2024-04-18T14:20:00Z"
+    },
+    {
+      "id": 5,
+      "name": "4K Ultra HD TV",
+      "brand": "VisionPlus",
+      "category": "Home Entertainment",
+      "price": 999.99,
+      "description": "Enjoy stunning 4K visuals with this ultra high-definition TV.",
+      "imageFilename": "s23.webp",
+      "createdAt": "2024-05-30T16:10:00Z"
+    },
+    {
+      "name": "Wira phone",
+      "brand": "Wira",
+      "category": "Phone",
+      "Price": "10000",
+      "description": "Apa aja deh",
+      "imageFilename": "1719029555025_pxfuel.jpg",
+      "createdAt": "2024-06-22T04:12:35.043Z",
+      "id": 6
+    },
+    {
+      "name": "Hello Name",
+      "brand": "Hello Brand",
+      "category": "Accessories",
+      "price": 1.11,
+      "description": "Coba dulu ges",
+      "imageFilename": "1719032395556_wallpaperflare.com_wallpaper.jpg",
+      "createdAt": "2024-06-22T04:59:55.564Z",
+      "id": 7
+    }
+  ]
+}
